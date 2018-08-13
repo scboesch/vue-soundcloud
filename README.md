@@ -7,3 +7,5 @@ After registered, grab the Client ID. Edit `index.html` file, and put your Clien
     const SC_CLIENT_ID = 'YOUR_CLIENT_ID';
 
 Open the `index.html`. Enjoy, learn and happy hacking!
+
+Small change
